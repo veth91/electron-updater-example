@@ -1,6 +1,6 @@
 {
   "name": "electron-updater-example",
-  "version": "0.6.3",
+  "version": "0.6.5",
   "main": "main.js",
   "description": "electron-updater example project",
   "author": "Brandon Veth",
@@ -19,7 +19,7 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "iffy",
+        "owner": "Veth91",
         "repo": "electron-updater-example"
       }
     ],
